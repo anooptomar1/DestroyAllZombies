@@ -2,8 +2,8 @@
 //  GameViewController.swift
 //  DestroyAllZombies
 //
-//  Created by Robert Anderson-Butterworth on 9/12/2014.
-//  Copyright (c) 2014 __MyCompanyName__. All rights reserved.
+//  Created by Robert Anderson on 9/12/2014.
+//  Copyright (c) 2014 Robert Anderson. All rights reserved.
 //
 
 import UIKit
